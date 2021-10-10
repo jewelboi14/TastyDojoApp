@@ -1,5 +1,6 @@
 # TastyDojoApp
 This is the simple iOS app for browsing and saving recipes, using Spoonacular API
+
 This project includes:
 - MVVM Pattern
 - Searching through the recipes, using JSONDecoder class
